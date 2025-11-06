@@ -16,7 +16,7 @@ The electronic components of the Stewart platform were designed first. To ensure
 
 Next, the electronic components of the rover were designed. This was relatively simple, since the brain (Raspberry Pi running ROS2) and communication protocol (CAN bus) had already been set up. The Pololu 37D motors used have ready-made motor driver boards that were used for motor drivers, and a single Arduino DUE was used to read the CAN bus for required rover positions, implement a simple feedforward control algorithm to determine rover velocity requirements, and control the motor velocities using a hybrid feedforward/PI feedback control system. Early operation of the rover is shown in the gif below.
 
-~[Rover - Early Independent Operation](../assets/images/RoverIndependentOperation.gif)
+![Rover - Early Independent Operation](../assets/images/RoverIndependentOperation.gif)
 
 The final task was integrating the two systems. This introduced a redundantly actuated control problem: both the Stewart platform and the rover were capable of surge, sway, and yaw actuation, so somehow, the motion in these 3DOF had to be "split up" or "distributed" between the two systems. To begin with, just for the sake of early integration, a simple "control splitting" method was used in which the Stewart platform solely executed heave, roll and pitch motion while the rover executed all surge, sway, and yaw motion. However, future work on the platform involves testing more advanced methods of solving this redundant actuation problem. The following gif shows the first combined motion of the two systems, using the previously described "control splitting" method.
 
