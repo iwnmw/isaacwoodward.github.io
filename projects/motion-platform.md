@@ -1,3 +1,6 @@
+layout: default
+title: Motion Platform
+
 As part of my master's thesis and my work at the Missouri Institute for Defense and Energy, I built a prototype of a motion platform as part of a larger contract with the Navy. The motion platform was a hybrid robotic system consisting of a Stewart platform manipulator mounted on top of a 3DOF, omni wheel kiwi drive rover.
 
 I was responsible for all aspects of this prototype, including the geometric design (which was aided by my kinematic analysis program), the detailed design of joints, frames, etc., the electrical design, embedded systems, and other software. 
