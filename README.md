@@ -23,6 +23,29 @@
 
 Below are links to some of my projects:
 
-- [Finite Element Models of Knee Joints](./projects/finite-element-knee-models.md)
-- [Kinematic Analysis Program](./projects/kinematic-analysis-program.md)
-- [Motion Platform](./projects/motion-platform.md)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
+    <img src="./assets/images/MotionPlatform.jpg" style="width: 100%; border-radius: 6px;">
+    <h3>Motion Platform</h3>
+    <p>A prototype of a wave motion simulation system using a Stewart platform manipulator mounted atop an omni wheel, kiwi drive rover.</p>
+    <a href="./projects/robotic-manipulator.md">View Project →</a>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
+    <img src="./assets/images/SetupBlock.png" style="width: 100%; border-radius: 6px;">
+    <h3>Kinematic Analysis Program</h3>
+    <p>A MATLAB-based program for analyzing the kinematic performance and workspace of Stewart platform manipulators.</p>
+    <a href="./projects/robotic-manipulator.md">View Project →</a>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
+    <img src="./assets/images/GPKneeModel.png" style="width: 100%; border-radius: 6px;">
+    <h3>Finite Element Models of Pediatric Knees</h3>
+    <p>Investigating the effect of the adolescent growth plate on ACL strain using finite element models of an adolescent knee.</p>
+    <a href="./projects/robotic-manipulator.md">View Project →</a>
+  </div>
+</div>
