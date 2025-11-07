@@ -6,9 +6,9 @@ I'm a graduate mechanical engineering student currently pursuing a Master's thes
 ## Contact Information, Resumes, and Other Links
  - E-mail: isaacbwoodward@gmail.com
  - Phone: 816-206-8312
- - ![Robotics and Controls Resume](./assets/pdf/Isaac Woodward Resume - Robotics and Controls Resume.pdf)
- - ![FEA andd Simulation Resume](./assets/pdf/Isaac Woodward Resume - FEA and Simulation Resume.pdf)
- - ![My LinkedIn](https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+ - [Robotics and Controls Resume](./assets/pdf/Isaac Woodward Resume - Robotics and Controls Resume.pdf)
+ - [FEA andd Simulation Resume](./assets/pdf/Isaac Woodward Resume - FEA and Simulation Resume.pdf)
+ - [My LinkedIn](https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 # Projects
 
