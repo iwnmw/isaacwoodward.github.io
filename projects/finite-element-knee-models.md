@@ -1,5 +1,6 @@
+---
 layout: default
-title: Finite Element Knee Models
+---
 
 # Finite Element Knee Models (Summer of 2023)
 
