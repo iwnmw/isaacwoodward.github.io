@@ -1,5 +1,6 @@
+---
 layout: default
-title: Kinematic Analysis Program
+---
 
 To ensure that I properly designed the geometry of my Stewart platform for my thesis-related work on the motion platform, I created a GUI-based MATLAB app to analyze the workspace and kinematic analysis of a Stewart platform manipulator, simply dubbed the Kinematic Analysis Program (KAP).
 
