@@ -5,7 +5,7 @@
     <h2>Overview</h2>
     <p>I'm a graduate mechanical engineering student currently pursuing a Master's thesis in robotics and controls at the University of Missouri - Kansas City! I have a strong background in programming (C++/Python/MATLAB), embedded systems, finite element analysis/simulation, control system design, and CAD/3D Modeling. I'm passionate about all things engineering and am always trying to learn new things!</p>
   </div>
-  <img src="./assets/images/SeniorPicture.jpg" alt="Isaac Woodward" style="width: 180px; border-radius: 8px;">
+  <img src="./assets/images/SeniorPicture.jpg" alt="Isaac Woodward" style="width: 360px; border-radius: 8px;">
 </div>
 
 ## Contact Information, Resumes, and Other Links
