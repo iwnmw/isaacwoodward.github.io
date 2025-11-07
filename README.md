@@ -37,7 +37,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
-    height: 600px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -70,7 +70,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
-    height: 600px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -103,7 +103,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
-    height: 600px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
