@@ -40,10 +40,24 @@ Below are links to some of my projects:
     height: 600px;
     display: flex;
     flex-direction: column;
+    align-items: center;
   ">
-    <img src="./assets/images/MotionPlatform.jpg" style="width: 100%; border-radius: 6px;">
-    <h3>Motion Platform</h3>
-    <p>A prototype of a wave motion simulation system using a Stewart platform manipulator atop an omni-wheel rover.</p>
+
+    <div style="
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-top: auto;
+      margin-bottom: auto;
+      width: 100%;
+    ">
+      <img src="./assets/images/MotionPlatform.jpg"
+           style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 6px;">
+      <h3>Motion Platform</h3>
+      <p>A prototype of a wave motion simulation system using a Stewart platform manipulator atop an omni-wheel rover.</p>
+    </div>
+
     <a href="./projects/robotic-manipulator.md" style="margin-top: auto;">
       View Project →
     </a>
@@ -59,10 +73,24 @@ Below are links to some of my projects:
     height: 600px;
     display: flex;
     flex-direction: column;
+    align-items: center;
   ">
-    <img src="./assets/images/SetupBlock.png" style="width: 100%; border-radius: 6px;">
-    <h3>Kinematic Analysis Program</h3>
-    <p>A MATLAB-based program for analyzing the kinematic performance and workspace of Stewart platform manipulators.</p>
+
+    <div style="
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-top: auto;
+      margin-bottom: auto;
+      width: 100%;
+    ">
+      <img src="./assets/images/SetupBlock.png"
+           style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 6px;">
+      <h3>Kinematic Analysis Program</h3>
+      <p>A MATLAB-based program for analyzing the kinematic performance and workspace of Stewart platform manipulators.</p>
+    </div>
+
     <a href="./projects/robotic-manipulator.md" style="margin-top: auto;">
       View Project →
     </a>
@@ -78,10 +106,24 @@ Below are links to some of my projects:
     height: 600px;
     display: flex;
     flex-direction: column;
+    align-items: center;
   ">
-    <img src="./assets/images/GPKneeModel.png" style="width: 100%; border-radius: 6px;">
-    <h3>Finite Element Pediatric Knees</h3>
-    <p>Investigating the effect of the adolescent growth plate on ACL strain using finite element models.</p>
+
+    <div style="
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      margin-top: auto;
+      margin-bottom: auto;
+      width: 100%;
+    ">
+      <img src="./assets/images/GPKneeModel.png"
+           style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 6px;">
+      <h3>Finite Element Pediatric Knees</h3>
+      <p>Investigating the effect of the adolescent growth plate on ACL strain using finite element models.</p>
+    </div>
+
     <a href="./projects/robotic-manipulator.md" style="margin-top: auto;">
       View Project →
     </a>
