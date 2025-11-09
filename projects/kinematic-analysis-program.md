@@ -90,7 +90,7 @@ Finally, a rough 3D visualization of the given geometric configuration is shown.
 </div>
 
 <!-- Results Block Section -->
-
+<div style="display:flex; gap:20px; margin-bottom:30px; align-items:stretch;">
   <!-- Image Block -->
   <div style="
     flex: 0 0 45%; 
