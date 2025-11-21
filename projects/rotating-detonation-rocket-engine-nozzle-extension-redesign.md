@@ -28,3 +28,5 @@ I was very fortunate to be able to work as an intern at NASA's Marshall Spacefli
     </p>
   </div>
 </div>
+
+Unfortunately, there aren't many pictures of this project that I can show, but personally, it was one of my favorite projects I have ever worked on! I was able to get a lot of experience in more advanced CAD techniques like surface modeling as well as in GD&T. I also was introduced to techniques of metal additive manufacturing and some of the design principles when designing a part to be manufactured using these methods. Overall, this was a really awesome project, and one of my personal favorites!
