@@ -133,3 +133,31 @@ As part of my master's thesis and my work at the Missouri Institute for Defense 
     </p>
   </div>
 </div>
+
+<!-- Motion Capture Testing --> 
+
+<div style="display:flex; gap:20px; margin-bottom:30px; align-items:stretch;">
+
+  <!-- Image -->
+  <div style="
+    flex: 0 0 45%; 
+    max-width: 45%; 
+    display:flex; 
+    justify-content:center; 
+    align-items: center;
+    flex-direction:column;
+    ">
+    <img src="../assets/images/MoCapVideoGif.gif"
+      style="width:100%; height:auto; border-radius:8px; border:1px solid #ddd;">
+    <p style="text-align:center; font-size:0.9em; color:#666; margin-top:8px">
+      Figure 6. Final Platform During Motion Capture Testing
+    </p>
+  </div>
+
+  <!-- Text -->
+  <div style="flex:1; min-width:0;">
+  <p>
+    After the initial combined motion, many further improvements were made to the platform to improve its performance, reliability, and useability. The final portion of this project was then to test a number of control system architectures for the hybrid Stewart platform-rover system and compare their performances. To do this, I reserved a classroom over winter break, set up an OptiTrack motion capture system, integrated the motion capture feedback into the platform backend, and gathered hours of test data to compare all six of the control architectures we tested. Figure 6 depicts this final platform, operating much more smoothly due to component redesigns and software improvements, operating in my motion capture setup.
+  </p>
+  </div>
+</div>
